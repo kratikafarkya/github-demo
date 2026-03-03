@@ -1,4 +1,5 @@
 # github-demo
 this is my first git repository 
 <br>
-changes in repo
+changes in repos
+Kratika Farkya
